@@ -13,3 +13,5 @@ a PHP frontend.
 ### :speech_balloon: Help
 *  https://forums.alliedmods.net/forumdisplay.php?f=156
 ---
+## This Fork
+A new look for HlstatsX. It's going to include a script that deploys HlstatsX:CE on a freshly installed Debian 12 system.
