@@ -14,4 +14,13 @@ a PHP frontend.
 *  https://forums.alliedmods.net/forumdisplay.php?f=156
 ---
 ## This Fork
-A new look for HlstatsX. It's going to include a script that deploys HlstatsX:CE on a freshly installed Debian 12 system.
+ - A new look for HlstatsX.
+ - A script that deploys HlstatsX:CE on a freshly installed Debian 12 system.
+
+   Removed the following functions.
+ - AJAX gliding server list (accordion effect) on homepage of each game. Server info will now only be accesible when clicked on a particular server.
+
+
+## Screenshots
+Admin Page
+![Screenshot 2024-03-12 at 14-37-53 HLstatsX Community Edition - Admin](https://github.com/jokurino/hlstatsx-community-edition-Revamp/assets/75618728/17d2fb27-ad36-48d4-a546-7c80cb28bde6)
