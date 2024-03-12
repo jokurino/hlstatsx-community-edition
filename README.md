@@ -14,8 +14,8 @@ a PHP frontend.
 *  https://forums.alliedmods.net/forumdisplay.php?f=156
 ---
 ## This Fork
--A new look for HlstatsX, inspired by the selfhosted gameserver software called Pterodactyl.<br>
--A script that deploys HlstatsX:CE on a freshly installed Debian 12 system.
+- A new look for HlstatsX, inspired by the selfhosted gameserver software called Pterodactyl.<br>
+- A script that deploys HlstatsX:CE on a freshly installed Debian 12 system.
 
    <br>
    <b>Removed the following functions.</b>
