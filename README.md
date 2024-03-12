@@ -18,7 +18,7 @@ a PHP frontend.
  - A script that deploys HlstatsX:CE on a freshly installed Debian 12 system.
 
    Removed the following functions.
- - AJAX gliding server list (accordion effect) on homepage of each game. Server info will now only be accesible when clicked on a particular server.
+ - AJAX gliding server list (accordion effect) on homepage of each game. Server info will now be accessible when clicked on a particular server. (this was already there but is now permanent).
 
 
 ## Screenshots
