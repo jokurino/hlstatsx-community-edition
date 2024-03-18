@@ -10,6 +10,7 @@ a PHP frontend.
 
 ### :book: Documentation
 * https://github.com/NomisCZ/hlstatsx-community-edition/wiki 🚧 Wiki - work in progress 🚧
+* https://github.com/jokurino/hlstatsx-community-edition-Revamp/wiki
 ### :speech_balloon: Help
 *  https://forums.alliedmods.net/forumdisplay.php?f=156
 ---
